@@ -6,7 +6,7 @@
 
 #### Project Links
 - [Network Programming](https://github.com/ben0919/Network-Programming-NYCU)
-- [Computer Security](https://github.com/ben0919Computer-Security-NYCU)
+- [Computer Security](https://github.com/ben0919/Computer-Security-NYCU)
 <!--
 **ben0919/ben0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
