@@ -3,6 +3,10 @@
 - I'm a member of [Vision and Learning Lab](http://vllab.cs.nctu.edu.tw) and my advisor is Prof. [Yen-Yu Lin](https://sites.google.com/site/yylinweb/).
 - I'm currently doing research on Computer Vision with Deep Learning, especially on the task of [Facial Landmark Detection](https://paperswithcode.com/task/facial-landmark-detection) and [Face Alignment](https://paperswithcode.com/task/face-alignment).
 - Feel free to contact me: benchiang0919@gmail.com
+
+### Project Links
+- [Network Programming](https://github.com/ben0919/Network-Programming-NYCU)
+- [Computer Security](https://github.com/ben0919Computer-Security-NYCU)
 <!--
 **ben0919/ben0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
