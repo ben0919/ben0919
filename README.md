@@ -6,7 +6,7 @@
 - Feel free to contact me: benchiang0919@gmail.com
 
 #### Project Links
-- [https://ben0919.github.io/ORFormer/]
+- [ORFormer](https://ben0919.github.io/ORFormer/)
 - [Network Programming](https://github.com/ben0919/Network-Programming-NYCU)
 - [Computer Security](https://github.com/ben0919/Computer-Security-NYCU)
 <!--
