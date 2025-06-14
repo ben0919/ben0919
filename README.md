@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jui-Che (Ben) Chiang!
 - System Software Engineer @ NVIDIA Taipei
-- Paper [ORFormer](https://ben0919.github.io/ORFormer/) accepted by WACV 2025!
+- Paper [ORFormer](https://ben0919.github.io/ORFormer/) accepted by **WACV 2025** as **Oral Presentation**!
 - Previous member of [Vision and Learning Lab](http://vllab.cs.nctu.edu.tw) (Advisor: Prof. [Yen-Yu Lin](https://sites.google.com/site/yylinweb/))
 - Master and Bachlor of Computer Science from National Yang Ming Chiao Tung University
 - Feel free to contact me: benchiang0919@gmail.com
